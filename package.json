@@ -167,7 +167,7 @@
 		"expect-puppeteer": "6.1.1",
 		"follow-redirects": "1.15.1",
 		"fs-extra": "10.1.0",
-		"gh-pages": "4.0.0",
+		"gh-pages": "6.1.1",
 		"github-label-sync": "2.2.0",
 		"glob": "7.1.7",
 		"glob-promise": "4.2.2",
