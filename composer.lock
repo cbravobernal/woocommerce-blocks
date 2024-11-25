@@ -2715,16 +2715,16 @@
         },
         {
             "name": "wp-phpunit/wp-phpunit",
-            "version": "6.0.1",
+            "version": "6.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-phpunit/wp-phpunit.git",
-                "reference": "d4082280dd59add7c42d0a67400f8eb26cd790de"
+                "reference": "e63eb1c0980839853c569d3f04ff70263b7795e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/d4082280dd59add7c42d0a67400f8eb26cd790de",
-                "reference": "d4082280dd59add7c42d0a67400f8eb26cd790de",
+                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/e63eb1c0980839853c569d3f04ff70263b7795e3",
+                "reference": "e63eb1c0980839853c569d3f04ff70263b7795e3",
                 "shasum": ""
             },
             "type": "library",
@@ -2759,7 +2759,7 @@
                 "issues": "https://github.com/wp-phpunit/issues",
                 "source": "https://github.com/wp-phpunit/wp-phpunit"
             },
-            "time": "2022-07-12T22:10:08+00:00"
+            "time": "2024-11-22T01:27:46+00:00"
         },
         {
             "name": "yoast/phpunit-polyfills",
@@ -2833,5 +2833,5 @@
     "platform-overrides": {
         "php": "7.4.24"
     },
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
