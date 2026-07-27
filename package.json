@@ -141,7 +141,7 @@
 		"@wordpress/i18n": "4.14.0",
 		"@wordpress/is-shallow-equal": "4.13.0",
 		"@wordpress/prettier-config": "1.4.0",
-		"@wordpress/scripts": "22.3.0",
+		"@wordpress/scripts": "33.0.0",
 		"autoprefixer": "10.4.7",
 		"axios": "0.27.2",
 		"babel-plugin-explicit-exports-references": "^1.0.2",
